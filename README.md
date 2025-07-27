@@ -1,6 +1,7 @@
 # 班级老师大战
 
 这是一个基于Windows Forms开发的卡牌对战游戏，灵感来源于炉石传说。游戏中，玩家可以使用9个不同科目的老师进行对战。
+[下载游戏](https://github.com/TSTR000/TeacherBattle/releases)
 
 ## 游戏特点
 
